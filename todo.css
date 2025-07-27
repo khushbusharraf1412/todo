@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(102, 96, 102);
+}
+h1{
+    
+    
+    text-align: center;
+    color: rgb(8, 3, 66);
+    box-shadow: 2px 2px 2px 2px;
+}
+button{
+ 
+    text-decoration: double;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: rgb(148, 154, 180);
+}
+input{
+    background-color: bisque;
+    box-shadow: 2px 2px 10px 3px rgb(242, 244, 239);
+}
